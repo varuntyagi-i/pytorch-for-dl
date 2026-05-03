@@ -5,3 +5,7 @@
 __pycache__/
 
 data/
+
+flower_data/
+
+corrupted_flower_data/
