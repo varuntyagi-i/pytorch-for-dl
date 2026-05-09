@@ -4,12 +4,12 @@
 
 __pycache__/
 
+
+## Dataset
 data/
-
 flower_data/
-
 corrupted_flower_data/
-
 cifar_100/
-
 dataset/
+nb_image/
+c2_preview/
