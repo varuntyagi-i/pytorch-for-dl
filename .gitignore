@@ -18,3 +18,4 @@ cifar10/
 AIvsReal_sampled/
 example.db
 apple_ad_subset/
+cifar10_3class_imbalanced
