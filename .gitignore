@@ -4,6 +4,7 @@
 
 __pycache__/
 
+notefile.txt
 
 ## Dataset
 data/
@@ -16,3 +17,4 @@ c2_preview/
 cifar10/
 AIvsReal_sampled/
 example.db
+apple_ad_subset/
