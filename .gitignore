@@ -21,6 +21,10 @@ apple_ad_subset/
 cifar10_3class_imbalanced
 images/
 bert_tokenizer_local/
+bert_model/
+glove_data/
+
+
 ## Model
 
 **.pth
