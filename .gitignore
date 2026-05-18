@@ -23,7 +23,7 @@ images/
 bert_tokenizer_local/
 bert_model/
 glove_data/
-
+**.csv
 
 ## Model
 
