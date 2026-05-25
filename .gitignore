@@ -25,6 +25,7 @@ bert_model/
 glove_data/
 **.csv
 distilbert-local-base/
+**.zip
 
 ## Model
 
